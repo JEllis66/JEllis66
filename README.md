@@ -1,13 +1,11 @@
 
 [![Header](https://github.com/JEllis66/JEllis66/blob/main/bCardPurp.png "Header")](https://jtellis.com/)
 
-### <p>
+### <p align="center">
         Hello there 👋
     </p>
 
-    <p align="center">
-        ABOUT ME
-    </p>
+    
 ---
 I am Jamie Ellis
 a Software Engineer & Chemical Process Engineer
