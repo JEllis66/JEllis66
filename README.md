@@ -44,7 +44,7 @@ Education:
 
 - Email: jamie@jtellis.com
 - Phone: (774) 444-6405
-- [My Website] (https://jtellis.com)
+- [My Website](https://jtellis.com)
 
 
 ---
