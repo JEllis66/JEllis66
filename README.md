@@ -9,12 +9,11 @@
 
 ---
 
-I am Jamie Ellis 😄
+I am Jamie Ellis, currently a Chemical Process Engineer by day, Software Engineer by night. Looking to become a full-time Software Engineer 😄
 
 Pronouns: He/Him
 
 Education:
-- Software Engineer & Chemical Process Engineer
 - Coding Dojo (2021-2022)
   - Python/Flask/MySQL
   - Java/Spring/STS/MySQL
