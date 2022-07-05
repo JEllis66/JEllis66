@@ -44,7 +44,7 @@ Education:
 
 - Email: jamie@jtellis.com
 - Phone: (774) 444-6405
-- jtellis.com
+- [My Website] (https://jtellis.com)
 
 
 ---
@@ -53,7 +53,7 @@ Education:
 
 ---
 
-I love videogames and can be found here if you'd like to play: https://steamcommunity.com/id/JmEllis/
+I love videogames and can be found here if you'd like to play: [My Steam Profile Page](https://steamcommunity.com/id/JmEllis/)
 
 <!--
 **JEllis66/JEllis66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
