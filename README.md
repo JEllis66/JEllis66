@@ -1,15 +1,54 @@
 
 [![Header](https://github.com/JEllis66/JEllis66/blob/main/bCardPurp.png "Header")](https://jtellis.com/)
 
-### Hello there 👋
+    Hello there 👋
   
-
-    
 ---
-I am Jamie Ellis
-a Software Engineer & Chemical Process Engineer
 
-I build full-stack web applications, 
+<p align="center"> About Me </p>
+
+---
+
+I am Jamie Ellis 😄
+
+Pronouns: He/Him
+
+- Software Engineer & Chemical Process Engineer
+- Coding Dojo (2021-2022)
+  - Python/Flask/MySQL
+  - Java/Spring/STS/MySQL
+  - MERN
+- UMass Amherst (2014-2018)
+  - Chemical Engineering
+
+---
+
+🔭 I’m currently working on ...
+
+---
+
+- Numericle: Math Equation Puzzle, based on 'Wordle'
+- Murder Mystery App: Full Stack application to be used for in person for an interacitve mystery puzzle
+- Wedding RSVP webstie: A website used for guests to RSVP to my wedding in 2023
+- Personal Fitness Tracker: Application for keeping track of workouts and suggesting workout routines
+
+---
+
+📫 How to reach me:
+
+---
+
+- Email: jamie@jtellis.com
+- Phone: (774) 444-6405
+- jtellis.com
+
+---
+
+- ⚡ Fun fact:
+
+---
+
+I love videogames and can be found here if you'd like to play: https://steamcommunity.com/id/JmEllis/
 
 <!--
 **JEllis66/JEllis66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
