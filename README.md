@@ -13,13 +13,14 @@ I am Jamie Ellis 😄
 
 Pronouns: He/Him
 
+Education:
 - Software Engineer & Chemical Process Engineer
 - Coding Dojo (2021-2022)
   - Python/Flask/MySQL
   - Java/Spring/STS/MySQL
   - MERN
 - UMass Amherst (2014-2018)
-  - Chemical Engineering
+  - Chemical Engineering, B.S.
 
 ---
 
