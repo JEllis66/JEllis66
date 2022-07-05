@@ -5,7 +5,7 @@
   
 ---
 
-<p align="center"> About Me </p>
+<p align="center"> About Me: </p>
 
 ---
 
@@ -23,7 +23,7 @@ Pronouns: He/Him
 
 ---
 
-🔭 I’m currently working on ...
+<p align="center"> 🔭 I’m currently working on: </p>
 
 ---
 
@@ -34,7 +34,7 @@ Pronouns: He/Him
 
 ---
 
-📫 How to reach me:
+<p align="center"> 📫 How to reach me: </p>
 
 ---
 
@@ -44,7 +44,7 @@ Pronouns: He/Him
 
 ---
 
-- ⚡ Fun fact:
+<p align="center"> ⚡ Fun fact: </p>
 
 ---
 
