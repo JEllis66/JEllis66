@@ -55,6 +55,7 @@ Education:
 ---
 
 - I love music 🎵 - Play the drums 🥁 and some keyboard 🎹
+- Play Tennis 🎾 and exercise 🏋️
 - I play videogames 🎮 on PC and can be found here if you'd like to play together: [My Steam Profile Page](https://steamcommunity.com/id/JmEllis/)
 
 <!--
