@@ -1,6 +1,5 @@
 
-[![Header](https://github.com/JEllis66/JEllis66/blob/main/bCardRear.png "Header")](https://jtellis.com/)
-https://github.com/JEllis66/JEllis66/blob/main/bCardRear.png
+[![Header](https://github.com/JEllis66/JEllis66/blob/main/bCardPurp.png "Header")](https://jtellis.com/)
 ### Hi there 👋
 
 <!--
