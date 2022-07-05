@@ -43,18 +43,19 @@ Education:
 
 ---
 
-- Email: jamie@jtellis.com
-- Phone: (774) 444-6405
-- [My Website](https://jtellis.com)
+- 📧 Email: jamie@jtellis.com
+- 📞 Phone: (774) 444-6405
+- 🌐 [My Website](https://jtellis.com)
 
 
 ---
 
-<p align="center"> ⚡ Fun fact: </p>
+<p align="center"> ⚡ Hobbies: </p>
 
 ---
 
-I love videogames and can be found here if you'd like to play: [My Steam Profile Page](https://steamcommunity.com/id/JmEllis/)
+- I love music 🎵 - Play the drums 🥁 and some keyboard 🎹
+- I play videogames 🎮 on PC and can be found here if you'd like to play together: [My Steam Profile Page](https://steamcommunity.com/id/JmEllis/)
 
 <!--
 **JEllis66/JEllis66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
