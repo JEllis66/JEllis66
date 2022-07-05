@@ -1,6 +1,13 @@
 
 [![Header](https://github.com/JEllis66/JEllis66/blob/main/bCardPurp.png "Header")](https://jtellis.com/)
-### Hi there 👋
+### Hello there 👋
+---
+ABOUT ME
+---
+I am Jamie Ellis
+a Software Engineer & Chemical Process Engineer
+
+I build full-stack web applications, 
 
 <!--
 **JEllis66/JEllis66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
