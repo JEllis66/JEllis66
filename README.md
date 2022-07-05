@@ -18,6 +18,7 @@ I am Jamie Ellis (Pronouns: He/Him):
 
 Education:
 - Coding Dojo (2021-2022)
+  - HTML/CSS/JavaScript
   - Python/Flask/MySQL
   - Java/Spring/STS/MySQL
   - MERN
