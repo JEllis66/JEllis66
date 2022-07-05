@@ -19,7 +19,7 @@ Education:
 - Coding Dojo (2021-2022)
   - HTML/CSS/JavaScript
   - Python/Flask/MySQL
-  - Java/Spring/STS/MySQL
+  - Java/Spring/MySQL
   - MERN
 - UMass Amherst (2014-2018)
   - Chemical Engineering, B.S.
