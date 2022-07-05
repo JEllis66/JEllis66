@@ -1,8 +1,8 @@
 
 [![Header](https://github.com/JEllis66/JEllis66/blob/main/bCardPurp.png "Header")](https://jtellis.com/)
 
-<p align="center">
-    ### Hello there 👋
+### <p align="center">
+    Hello there 👋
 </p>
 ---
 ABOUT ME
