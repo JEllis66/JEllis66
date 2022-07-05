@@ -1,7 +1,7 @@
 
 [![Header](https://github.com/JEllis66/JEllis66/blob/main/bCardPurp.png "Header")](https://jtellis.com/)
 
-Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+Hello there <img src="https://github.com/JEllis66/JEllis66/blob/main/waving-hand.gif" height="30px">
 
   
 ---
