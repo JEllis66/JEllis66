@@ -9,12 +9,12 @@
 
 ---
 
-- I am Jamie Ellis
+I am Jamie Ellis (Pronouns: He/Him):
 - Chemical Process Engineer by day, 
 - Software Engineer by night. 
 - Looking to become a full-time Software Engineer 😄
 
-Pronouns: He/Him
+
 
 Education:
 - Coding Dojo (2021-2022)
