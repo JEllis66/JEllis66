@@ -9,7 +9,10 @@
 
 ---
 
-I am Jamie Ellis, currently a Chemical Process Engineer by day, Software Engineer by night. Looking to become a full-time Software Engineer 😄
+- I am Jamie Ellis
+- Chemical Process Engineer by day, 
+- Software Engineer by night. 
+- Looking to become a full-time Software Engineer 😄
 
 Pronouns: He/Him
 
