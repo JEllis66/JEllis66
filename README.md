@@ -31,10 +31,10 @@ Education:
 
 ---
 
-- Numericle: Math Equation Puzzle, based on 'Wordle'
-- Murder Mystery App: Full Stack application to be used for in person for an interacitve mystery puzzle
+- Numericle: JavaScript Math Equation Puzzle Game, based on 'Wordle'
+- Murder Mystery App: Full Stack Java/Spring application to be used for in person for an interacitve mystery puzzle
 - Wedding RSVP website: A website used for guests to RSVP to my wedding in 2023
-- Personal Fitness Tracker: Application for keeping track of workouts and suggesting workout routines
+- Personal Fitness Tracker: Java/Spring Application for keeping track of workouts and suggesting workout routines
 
 
 ---
