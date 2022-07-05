@@ -14,8 +14,6 @@ I am Jamie Ellis (Pronouns: He/Him):
 - Software Engineer by night. 
 - Looking to become a full-time Software Engineer 😄
 
-
-
 Education:
 - Coding Dojo (2021-2022)
   - HTML/CSS/JavaScript
@@ -24,6 +22,7 @@ Education:
   - MERN
 - UMass Amherst (2014-2018)
   - Chemical Engineering, B.S.
+
 
 ---
 
@@ -36,6 +35,7 @@ Education:
 - Wedding RSVP website: A website used for guests to RSVP to my wedding in 2023
 - Personal Fitness Tracker: Application for keeping track of workouts and suggesting workout routines
 
+
 ---
 
 <p align="center"> 📫 How to reach me: </p>
@@ -45,6 +45,7 @@ Education:
 - Email: jamie@jtellis.com
 - Phone: (774) 444-6405
 - jtellis.com
+
 
 ---
 
