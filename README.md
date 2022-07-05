@@ -13,7 +13,7 @@ Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/
 I am Jamie Ellis (Pronouns: He/Him):
 - Chemical Process Engineer by day, 
 - Software Engineer by night. 
-- `Looking to become a full-time_Software Engineer` 😄
+- `Looking to become a full-time Software Engineer` 😄
 
 Education:
 - Coding Dojo (2021-2022)
