@@ -6,7 +6,7 @@ Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/
   
 ---
 
-<p align="center"> About Me: </p>
+<p align="center"> `About Me:` </p>
 
 ---
 
