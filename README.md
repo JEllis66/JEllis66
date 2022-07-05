@@ -1,7 +1,8 @@
 
 [![Header](https://github.com/JEllis66/JEllis66/blob/main/bCardPurp.png "Header")](https://jtellis.com/)
 
-    Hello there 👋
+    Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
   
 ---
 
