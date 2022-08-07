@@ -31,7 +31,7 @@ Education:
 
 ---
 
-- [Numericle:](numericle.ddns.net) Fullstack MERN Application - Math Equation Puzzle Game, based on 'Wordle'
+- [Numericle:](http://numericle.ddns.net) Fullstack MERN Application - Math Equation Puzzle Game, based on 'Wordle'
 - Murder Mystery App: Full Stack Java/Spring application to be used for in person for an interacitve mystery puzzle
 - Pokemon Team Builder: Java/Spring Fullstack Application for Pokemon Team creation
 - Personal Fitness Tracker: Java/Spring Application for keeping track of workouts and suggesting workout routines
