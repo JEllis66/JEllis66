@@ -27,13 +27,13 @@ Education:
 
 ---
 
-<p align="center"> 🔭 I’m currently working on: </p>
+<p align="center"> 🔭 Projects: </p>
 
 ---
 
-- Numericle: JavaScript Math Equation Puzzle Game, based on 'Wordle'
+- [My Website:](numericle.ddns.net) Fullstack MERN Application - Math Equation Puzzle Game, based on 'Wordle'
 - Murder Mystery App: Full Stack Java/Spring application to be used for in person for an interacitve mystery puzzle
-- Wedding RSVP website: A website used for guests to RSVP to my wedding in 2023
+- Pokemon Team Builder: Java/Spring Fullstack Application for Pokemon Team creation
 - Personal Fitness Tracker: Java/Spring Application for keeping track of workouts and suggesting workout routines
 
 
